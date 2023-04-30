@@ -6,6 +6,8 @@ export default class _Document extends Document {
       <Html lang="en">
         <Head>
           <meta charSet="UTF-8" />
+          <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+          <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         </Head>
         <body>
           <Main />
